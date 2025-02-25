@@ -9,7 +9,7 @@ This open-source rocketry design focuses on building a simple yet functional mod
 - **Polyvinyl Nose Cone**: Optimized for aerodynamics.
 - **Shock Chord**:Shock absorber.
 - **Centering rings**: Stable Motor Alignment.
-- - **Bulk head**:Sealing compartment for two-stage recovery
+- **Bulk head**:Sealing compartment for two-stage recovery.
 - **Trapezoidal Cardboard Fins**: Designed for stability during flight.
 - **36.7-Inch Parachute**: For controlled descent and safe recovery.
 - **GPS Tracker**: Embedded in the nose cone for real-time location tracking during flight.
